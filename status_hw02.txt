@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name? Jason Enright
+
+
+2. What hostname did you deploy to? www.jasonenright.com
+
+
+3. What's the link to your repository on github with your code? https://github.com/jenright99/webdev_hw02.git
+
+
+4. How many HTML / CSS tutorial exercises did you do? 5 for HTML, 3 for CSS
+
+
+5. How comfortable do you feel with HTML and CSS now? I am still at the point where I need the reference in front of me but am getting more comfortable.
+
+
+6. How many JS tutorial exercises did you do? 3
+
+
+7. How comfortable do you feel with JS now? I came in to this assignment with a familiarity with javascript and thus was already quite comfortable. This assignment did serve as a good refresher and stregthener of my skills.
+
+
+8. Do all of your HTML pages pass the W3C HTML validator? Yes, I believe (there are a few misc warnings)
+(https://validator.w3.org/)
+
+
+9. Which parts of this assignment did you have trouble with, if any? The hardest part was the logic of the calculator. There were edge cases which were difficult, but I eventually solved these issues.
+
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
